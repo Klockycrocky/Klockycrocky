@@ -25,8 +25,11 @@
    
  2) Иное: Высшее юридическое образование
 
-
-   ![image](https://user-images.githubusercontent.com/122477929/212699075-fa69e021-dad7-4205-b87d-efd4d2bafa73.png)
+ Сертификаты:
+ 
+![image](https://user-images.githubusercontent.com/122477929/212699887-d420bd13-0380-4801-84fb-3240510adfeb.png)
+ 
+   
 
    
 
