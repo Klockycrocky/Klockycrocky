@@ -28,7 +28,9 @@
  Сертификаты:
  
 ![image](https://user-images.githubusercontent.com/122477929/212699887-d420bd13-0380-4801-84fb-3240510adfeb.png)
- 
+![image](https://user-images.githubusercontent.com/122477929/212700816-7b474481-7c88-431a-89b4-7927329d93c7.png)
+![image](https://user-images.githubusercontent.com/122477929/212701104-ce9a14e2-2a8c-43dd-8849-8b80d2d00a2f.png)
+
    
 
    
