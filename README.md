@@ -3,7 +3,7 @@
 ## Навыки:
 1) SQL (СУБД: ClickHouse, PostgreSQL), включая оконные функции (в PostgreSql). Практиковал MySQL, MS SQL, Oracle, но меньше;      
 2) Python:   
-3)         a) библиотеки pandas, numpy, seaborn, matplotlib, scipy, pingouin и др.    
+           a) библиотеки pandas, numpy, seaborn, matplotlib, scipy, pingouin и др.    
            б) набор навыков, необходимый для анализа данных на python, например создание циклов и функций;  
            
 3) Проведение A/B тестов;
